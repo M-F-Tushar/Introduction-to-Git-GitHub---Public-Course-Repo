@@ -29,25 +29,6 @@ By the end of this lesson, you will be able to:
 * Understand the **working directory**, **staging area**, and **commits**.
 
 ---
-### 📚 Learning Objectives
-
-By the end of this lesson, you will be able to:
-
-* Create and initialize Git repositories
-* Apply the concepts through hands-on exercises
-* Troubleshoot common issues related to this topic
-
-### ⏱️ Estimated Time
-
-**50-65 minutes** (including reading, understanding, and hands-on practice)
-
-### 🎯 Prerequisites
-
-* Completion of Day 1
-* A working Git installation
-* A GitHub account
-
-
 
 ## 1. Understanding the Git Workflow
 
